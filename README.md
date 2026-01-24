@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cicekakkaya/)](https://www.linkedin.com/in/cicekakkaya/) [![Son Commit](https://img.shields.io/github/last-commit/cicekakkaya/cicekakkaya)](https://github.com/cicekakkaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cicekakkaya/)](https://www.linkedin.com/in/cicekakkaya/)
+
+<!--
+[![Son Commit](https://img.shields.io/github/last-commit/cicekakkaya/cicekakkaya)](https://github.com/cicekakkaya)
+-->
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
 
