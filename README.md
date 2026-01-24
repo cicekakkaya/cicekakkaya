@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## MSc. Candidate in Data Science and Artificial Intelligence Çiçek Akkaya
-
+##
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)](https://github.com/cicekakkaya)
 ##
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 ##
+
 </div>
 
 ### Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta. 
