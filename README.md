@@ -21,21 +21,17 @@ Here are some ideas to get you started:
 [![Son Commit](https://img.shields.io/github/last-commit/cicekakkaya/cicekakkaya)](https://github.com/cicekakkaya)
 -->
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
-
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cicekakkaya/)](https://www.linkedin.com/in/cicekakkaya/)
-
 
 
 <div align="center">
 
-## Çiçek Akkaya 👋
+## MSc. Candidate in Data Science and Artificial Intelligence Çiçek Akkaya
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)](https://github.com/cicekakkaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
 </div>
 
-Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta. 
+# Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta. 
 
-Completed projects in the fields of Deep Learning (Python, Keras, Knime), Data Analysis (Python, Numpy, Pandas, Matplotlib) and Database Management (MSSQL). Graduated from the Faculty of Agriculture on 2017. Took courses such as Statistics, Mathematics and on the field of Agriculture - mostly speciality with the subfield of Crop Protection - at this faculty. 3+ years of experience with the role of Digital Marketing Manager at Sunset Akarca Suites. In Digital Marketing field, she had the opportunity to learn and apply by researching in the field of Information Technologies. Therefore, in this field, she learned, applied and succeeded in arguments such as Website Designing, Social Media Management and Google Ads. Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics. After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects. 
+## Completed projects in the fields of Deep Learning (Python, Keras, Knime), Data Analysis (Python, Numpy, Pandas, Matplotlib) and Database Management (MSSQL). Graduated from the Faculty of Agriculture on 2017. Took courses such as Statistics, Mathematics and on the field of Agriculture - mostly speciality with the subfield of Crop Protection - at this faculty. 3+ years of experience with the role of Digital Marketing Manager at Sunset Akarca Suites. In Digital Marketing field, she had the opportunity to learn and apply by researching in the field of Information Technologies. Therefore, in this field, she learned, applied and succeeded in arguments such as Website Designing, Social Media Management and Google Ads. Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics. After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects. 
