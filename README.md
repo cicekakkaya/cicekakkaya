@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 </div>
 
 
-### Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta. 
+### Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta.
+
+##
 
 #### Completed projects in the fields of Deep Learning (Python, Keras, Knime), Data Analysis (Python, Numpy, Pandas, Matplotlib) and Database Management (MSSQL). 
 #### Graduated from the Faculty of Agriculture on 2017. Took courses such as Statistics, Mathematics and on the field of Agriculture - mostly speciality with the subfield of Crop Protection - at this faculty. 
