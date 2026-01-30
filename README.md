@@ -66,7 +66,14 @@ Here are some ideas to get you started:
 #### 3+ years of experience with the role of Digital Marketing Manager at Sunset Akarca Suites. In Digital Marketing field, she had the opportunity to learn and apply by researching in the field of Information Technologies. 
 #### Therefore, in this field, she learned, applied and succeeded in arguments such as Website Designing, Social Media Management and Google Ads. 
 #### Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics.
-#### After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects. 
+#### After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects.
+
+<!-- Son 1 yıl (C+ rank için) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
+
+<!-- Tüm zamanlar -->
+![Total Commits](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
+
 </div>
 
 
