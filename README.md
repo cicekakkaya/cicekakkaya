@@ -37,17 +37,20 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
 
-<!-- Son 1 yıl (C+ rank için) -->
+-->
+
+<!-- Son 1 yıl (C+ rank için) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
-
-<!-- Tüm zamanlar -->
+-->
+<!-- Tüm zamanlar 
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
-
-
+-->
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&cache_seconds=0)](https://github.com/cicekakkaya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&cache_seconds=0)](https://github.com/cicekakkaya)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
+
 -->
 
 
