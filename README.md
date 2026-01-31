@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## MSc. Candidate in Data Science and Artificial Intelligence Çiçek Akkaya
-<!--
+<!-- -->
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)](https://github.com/cicekakkaya)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/cicekakkaya)
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
 
--->
 
 <!-- Son 1 yıl (C+ rank için) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
