@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hi, 👋
-# This is Çiçek Akkaya.
+# I'm Çiçek Akkaya.
 
 ## MSc. Candidate in Data Science and Artificial Intelligence
 
