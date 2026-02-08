@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+ 
 # Hi, 👋
 # I'm Çiçek Akkaya.
 
 ## MSc. Candidate in Data Science and Artificial Intelligence
 
 
-
+----------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
-### Data Science Specialist & Agricultural Engineer & Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta.
+-------------
 
-##
+### Data Science Specialist | Agricultural Engineer | Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta.
+-----------
 
 #### Completed projects in the fields of Deep Learning (Python, Keras, Knime), Data Analysis (Python, Numpy, Pandas, Matplotlib) and Database Management (MSSQL). 
 #### Graduated from the Faculty of Agriculture on 2017. Took courses such as Statistics, Mathematics and on the field of Agriculture - mostly speciality with the subfield of Crop Protection - at this faculty. 
@@ -45,6 +47,10 @@ Here are some ideas to get you started:
 #### Therefore, in this field, she learned, applied and succeeded in arguments such as Website Designing, Social Media Management and Google Ads. 
 #### Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics.
 #### After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects.
+
+----------
+---------
+
 <!--
 
 
@@ -160,73 +166,15 @@ Son 1 yıl (C+ rank için)
 -->
 
 
+# 🧠 GitHub Performance Overview
 
-## 🧠 GitHub Performance Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
-
-</div>
-
----
-
-## 📊 Development Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=radical" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cicekakkaya&theme=github_dark" height="165"/>
-
-</div>
-
----
-
-## 📈 Contribution Details
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=github_dark"/>
-
-</div>
-
----
-
-
-</div>
-
----
-
-## ⚡ Profile Metrics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=cicekakkaya&label=Profile%20Views&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/cicekakkaya?label=Followers&style=flat"/>
-
-</div>
-
+--------------
 -----------------
-
-## 🧠 GitHub Performance Overview
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
-
-</div>
-
----
-
+ 
 ## 📊 Development Insights
 
-<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=radical" height="165"/>
 
@@ -234,42 +182,13 @@ Son 1 yıl (C+ rank için)
 
 </div>
 
----
 
-## 📈 Contribution Details
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=github_dark"/>
-
-</div>
 
 ---
-
-
-
-
-
-</div>
-
--------------------------------------------
------------------------------------------------
-
-## 📊 GitHub Overview
-
 <div align="center">
+ 
+##  📈 Contribution Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=default" height="165"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=default"/>
 
@@ -277,9 +196,10 @@ Son 1 yıl (C+ rank için)
 
 ---
 
-## ⚡ Profile Metrics
-
 <div align="center">
+ 
+## ⚡Profile Metrics
+
 
 <img src="https://komarev.com/ghpvc/?username=cicekakkaya&label=Profile%20Views&style=flat"/>
 
@@ -287,4 +207,4 @@ Son 1 yıl (C+ rank için)
 
 </div>
 
-
+------------
