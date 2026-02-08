@@ -195,11 +195,6 @@ Son 1 yıl (C+ rank için)
 
 ---
 
-## 🏆 Achievements & Rank
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&theme=darkhub&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -251,23 +246,9 @@ Son 1 yıl (C+ rank için)
 
 ---
 
-## 🏆 Achievements & Rank
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&theme=darkhub&no-frame=true&row=1&column=6"/>
 
-</div>
-
----
-
-## ⚡ Profile Metrics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=cicekakkaya&label=Profile%20Views&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/cicekakkaya?label=Followers&style=flat"/>
 
 </div>
 
@@ -291,16 +272,6 @@ Son 1 yıl (C+ rank için)
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=default"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&no-frame=true&row=1&column=6"/>
 
 </div>
 
