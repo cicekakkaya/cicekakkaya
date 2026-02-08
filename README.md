@@ -85,6 +85,15 @@ Son 1 yıl (C+ rank için)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=radical)
 
 
+## 🧠 My GitHub Performance
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADI&theme=github_dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=KULLANICI_ADI&theme=darkhub&no-frame=true&row=1)
+
+
 </div>
 
 
