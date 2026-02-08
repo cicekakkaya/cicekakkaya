@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 #### Therefore, in this field, she learned, applied and succeeded in arguments such as Website Designing, Social Media Management and Google Ads. 
 #### Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics.
 #### After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects.
-<!-- -->
+<!--
 
 
  Son 1 yıl (C+ rank için) 
@@ -157,3 +157,60 @@ Son 1 yıl (C+ rank için)
 
 </div>
 
+-->
+
+
+
+## 🧠 GitHub Performance Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
+
+</div>
+
+---
+
+## 📊 Development Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=radical" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cicekakkaya&theme=github_dark" height="165"/>
+
+</div>
+
+---
+
+## 📈 Contribution Details
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Rank
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## ⚡ Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cicekakkaya&label=Profile%20Views&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/cicekakkaya?label=Followers&style=flat"/>
+
+</div>
