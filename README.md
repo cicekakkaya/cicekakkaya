@@ -270,3 +270,50 @@ Son 1 yıl (C+ rank için)
 <img src="https://img.shields.io/github/followers/cicekakkaya?label=Followers&style=flat"/>
 
 </div>
+
+-------------------------------------------
+-----------------------------------------------
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=default" height="165"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicekakkaya&theme=default"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## ⚡ Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cicekakkaya&label=Profile%20Views&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/cicekakkaya?label=Followers&style=flat"/>
+
+</div>
+
+
