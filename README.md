@@ -76,6 +76,15 @@ Son 1 yıl (C+ rank için)
 
 -->
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cicekakkaya&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&theme=radical)
+
+
 </div>
 
 
