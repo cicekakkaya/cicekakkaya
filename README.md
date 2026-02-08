@@ -106,5 +106,54 @@ Son 1 yıl (C+ rank için)
 
 <img src="https://github-profile-trophy.vercel.app/?username=cicekakkaya&theme=darkhub&no-frame=true&row=1&column=6" />
 
+
+</div>
+
+
+
+## 🧠 GitHub Performance Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADI&theme=github_dark" height="165"/>
+
+</div>
+
+---
+
+## 📊 Contribution & Rank
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=KULLANICI_ADI&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KULLANICI_ADI&theme=github_dark"/>
+
+</div>
+
+---
+
+## ⚡ Minimal GitHub Status Bar
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADI&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/KULLANICI_ADI?label=Followers&style=flat"/>
+
+<img src="https://img.shields.io/github/stars/KULLANICI_ADI?label=Total%20Stars&style=flat"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Rank & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADI&theme=darkhub&no-frame=true&row=1&column=6"/>
+
 </div>
 
