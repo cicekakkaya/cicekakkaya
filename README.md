@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
 #
+#
 
 ## MSc. Candidate in Data Science and Artificial Intelligence
 
