@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  
 # Hi 👋,
-# I'm Çiçek Akkaya.
+  I'm Çiçek Akkaya.
 
 
 
