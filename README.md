@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 <div align="center">
 
  
-## Hi 👋,
-## I'm Çiçek Akkaya.
+# Hi 👋,
+# I'm Çiçek Akkaya.
 
--------------
+#
 
-# MSc. Candidate in Data Science and Artificial Intelligence
+## MSc. Candidate in Data Science and Artificial Intelligence
 
--------------
+#
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
--------------
+#
 
 ### Data Science Specialist | Agricultural Engineer | Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta.
 -----------
