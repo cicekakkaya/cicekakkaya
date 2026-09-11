@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ## MSc. Candidate in Data Science and Artificial Intelligence
 
+-------------
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
 -------------
