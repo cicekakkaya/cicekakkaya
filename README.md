@@ -25,8 +25,8 @@ Here are some ideas to get you started:
  
 # Hi 👋,
 # I'm Çiçek Akkaya.
-
-## MSc. Candidate in Data Science and Artificial Intelligence
+-------------
+# MSc. Candidate in Data Science and Artificial Intelligence
 
 -------------
 
