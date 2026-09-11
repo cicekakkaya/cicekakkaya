@@ -50,16 +50,13 @@ Here are some ideas to get you started:
 Son 1 yıl (C+ rank için)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
 
--->
-
-
 
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&cache_seconds=0)](https://github.com/cicekakkaya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicekakkaya&layout=compact&cache_seconds=0)](https://github.com/cicekakkaya)
+-->
 
-<!--
 
 ## 📊 GitHub Stats
 
