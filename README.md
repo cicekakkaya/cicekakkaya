@@ -123,7 +123,7 @@ Son 1 yıl (C+ rank için)
 
 ---
 
-## ⚡ Minimal GitHub Status Bar
+## ⚡ GitHub Status Bar
 
 <div align="center">
 
