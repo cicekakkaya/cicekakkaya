@@ -77,7 +77,7 @@ Son 1 yıl (C+ rank için)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 -->
-
+-----
 ## 🧠 GitHub Stats
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cicekakkaya&theme=github_dark)
@@ -117,7 +117,7 @@ Son 1 yıl (C+ rank için)
 </div>
 
 -->
-#
+----
 ## 📊 Contribution & Rank
 
 <div align="center">
