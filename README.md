@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 #### Because of her both  creativity and analytical intelligence with problem solving skills, she found it very appropriate to turn to a field like Data Analytics.
 #### After researching this field and all other fields in the software industry, she became more interested in Data Science and attended courses about Data Science field and graduated with projects.
 
-----------
----------
 
 <!--
 
