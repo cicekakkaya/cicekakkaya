@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #
 
-# MSc. Candidate in Data Science and Artificial Intelligence
+## MSc. Candidate in Data Science and Artificial Intelligence
 
 
 #
