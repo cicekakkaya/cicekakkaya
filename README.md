@@ -117,7 +117,7 @@ Son 1 yıl (C+ rank için)
 </div>
 
 -->
-
+#
 ## 📊 Contribution & Rank
 
 <div align="center">
