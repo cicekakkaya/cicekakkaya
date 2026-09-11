@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicekakkaya/)
 
- 
+---
 # Hi 👋,
 # I'm Çiçek Akkaya.
 
-
+---
 
 ## MSc. Candidate in Data Science and Artificial Intelligence
 
 
-#
+---
 
 ### Data Science Specialist | Agricultural Engineer | Master's Degree Student in IT of Data Science and Artificial Intelligence at European Higher Education Institute, in Malta.
 
