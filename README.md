@@ -136,7 +136,7 @@ Son 1 yıl (C+ rank için)
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Rank & Achievements
 
 <div align="center">
