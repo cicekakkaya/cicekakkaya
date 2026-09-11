@@ -56,17 +56,20 @@ Here are some ideas to get you started:
 Tüm zamanlar
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
 
--->
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
 
 
-<!--
 
+-->
 
 Son 1 yıl (C+ rank için)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical)
+
+<!--
+
 
  Tüm zamanlar 
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=cicekakkaya&show_icons=true&theme=radical&include_all_commits=true)
