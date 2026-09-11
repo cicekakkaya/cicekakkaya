@@ -180,7 +180,7 @@ Son 1 yıl (C+ rank için)
 
 ---
 
--->
+
 
 <div align="center">
  
@@ -194,3 +194,4 @@ Son 1 yıl (C+ rank için)
 </div>
 
 ------------
+-->
