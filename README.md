@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-<!--
+
 [![Son Commit](https://img.shields.io/github/last-commit/cicekakkaya/cicekakkaya)](https://github.com/cicekakkaya)
--->
+
 
 ##
 
