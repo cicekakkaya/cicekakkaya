@@ -80,7 +80,8 @@ Son 1 yıl (C+ rank için)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cicekakkaya&theme=darkhub&no-frame=true&row=1)
 
--->
+
+
 
 
 ## 🧠 GitHub Performance Dashboard
@@ -108,7 +109,7 @@ Son 1 yıl (C+ rank için)
 
 </div>
 
----
+-->
 
 ## 📊 Contribution & Rank
 
